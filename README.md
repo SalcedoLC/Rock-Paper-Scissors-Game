@@ -5,7 +5,7 @@ A simple Python implementation of the classic Rock, Paper, Scissors game with AS
 
 **How to Run:**  
 1. Clone the repository.  
-2. Run the `rock_paper_scissors.py` script in a Python environment.  
+2. Run the 'rock_paper_scissors.py' script in a Python environment.  
 3. Follow the prompts to make your choice, and see if you can beat the computer!
 
 **Features:**  
